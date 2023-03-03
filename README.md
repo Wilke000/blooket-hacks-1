@@ -11,7 +11,7 @@
     <img alt="Forks" src="https://img.shields.io/github/forks/monkxy/blooket-hacks?color=blue"/>
 </span>
 
- # Support Discord: https://discord.gg/monkxy
+ # Support Discord: https://discord.gg/BFwKHUebbM
 
 # Blooket Hacks
 
